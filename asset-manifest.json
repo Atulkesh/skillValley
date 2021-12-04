@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/skillValley/static/css/main.2a45a157.chunk.css",
+    "main.js": "/skillValley/static/js/main.10b3eae5.chunk.js",
+    "main.js.map": "/skillValley/static/js/main.10b3eae5.chunk.js.map",
+    "runtime-main.js": "/skillValley/static/js/runtime-main.56978204.js",
+    "runtime-main.js.map": "/skillValley/static/js/runtime-main.56978204.js.map",
+    "static/js/2.01fb6e8b.chunk.js": "/skillValley/static/js/2.01fb6e8b.chunk.js",
+    "static/js/2.01fb6e8b.chunk.js.map": "/skillValley/static/js/2.01fb6e8b.chunk.js.map",
+    "index.html": "/skillValley/index.html",
+    "static/css/main.2a45a157.chunk.css.map": "/skillValley/static/css/main.2a45a157.chunk.css.map",
+    "static/js/2.01fb6e8b.chunk.js.LICENSE.txt": "/skillValley/static/js/2.01fb6e8b.chunk.js.LICENSE.txt",
+    "static/media/pillow.bbe6e629.jpeg": "/skillValley/static/media/pillow.bbe6e629.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56978204.js",
+    "static/js/2.01fb6e8b.chunk.js",
+    "static/css/main.2a45a157.chunk.css",
+    "static/js/main.10b3eae5.chunk.js"
+  ]
+}
